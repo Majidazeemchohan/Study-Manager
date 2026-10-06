@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database (contains your personal login data - never upload)
+*.db
+*.sqlite3
+
+# App data folder (your uploaded files)
+data/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Inno Setup output
+Output/
+
+# Virtual environments
+venv/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
